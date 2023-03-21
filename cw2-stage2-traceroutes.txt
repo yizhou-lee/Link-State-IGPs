@@ -1,0 +1,30 @@
+
+traceroute: traceroute0
+source: 1.152.0.1
+traceroute to 1.106.0.1 (1.106.0.1), 64 hops max
+  1   1.0.8.2  0.003ms  1.0.9.2  0.004ms  0.004ms  0.003ms  0.003ms 
+  2   1.0.19.1  0.003ms  1.0.22.1  0.002ms  0.003ms  0.003ms  0.003ms 
+  3   1.106.0.1  0.004ms  0.005ms  0.004ms  0.005ms  0.004ms 
+
+traceroute: traceroute1
+source: 1.156.0.1
+traceroute to 1.107.0.1 (1.107.0.1), 64 hops max
+  1   1.0.21.2  0.003ms  0.003ms  0.001ms  0.001ms  0.001ms 
+  2   1.0.13.1  0.001ms  0.002ms  0.001ms  0.002ms  0.001ms 
+  3   1.0.11.2  0.001ms  0.002ms  0.001ms  0.002ms  0.002ms 
+  4   1.107.0.1  0.003ms  0.003ms  0.001ms  0.002ms  0.002ms 
+
+traceroute: traceroute2
+source: 1.160.0.1
+traceroute to 1.113.0.1 (1.113.0.1), 64 hops max
+  1   1.0.27.2  0.003ms  1.0.24.1  0.004ms  0.001ms  0.001ms  0.001ms 
+  2   1.0.21.1  0.002ms  0.001ms  0.001ms  0.001ms  0.001ms 
+  3   1.0.17.2  0.001ms  1.0.22.2  0.001ms  0.002ms  0.001ms  0.001ms 
+  4   1.113.0.1  0.001ms  0.001ms  0.002ms  0.001ms  0.001ms 
+
+traceroute: traceroute3
+source: 1.157.0.1
+traceroute to 1.110.0.1 (1.110.0.1), 64 hops max
+  1   1.0.11.1  0.003ms  1.0.4.1  0.002ms  0.001ms  0.001ms  0.001ms 
+  2   1.0.5.2  0.001ms  1.0.31.1  0.002ms  0.001ms  0.001ms  0.001ms 
+  3   1.110.0.1  0.001ms  0.001ms  0.001ms  0.001ms  0.001ms 
